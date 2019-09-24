@@ -56,5 +56,5 @@ cd web
 yarn start
 ```
 
-Default api is running on http://localhost:3030
+Default api is running on http://localhost:3030  
 Default web is running on http://localhost:3000
